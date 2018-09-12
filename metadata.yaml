@@ -1,0 +1,47 @@
+_repo: The-Bible-and-Polygamy-Does-the-Bible-Sanction-Polygamy_51140
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Pratt, Orson
+    birthdate: 1811
+    deathdate: 1881
+    gutenberg_agent_id: '42981'
+    url: http://www.gutenberg.org/2009/agents/42981
+    wikipedia: http://en.wikipedia.org/wiki/Orson_Pratt
+  - agent_name: Cannon, George Q. (George Quayle)
+    aliases:
+    - Cannon, George Quayle
+    - Cannon, G. Q. (George Quayle)
+    birthdate: 1827
+    deathdate: 1901
+    gutenberg_agent_id: '43048'
+    url: http://www.gutenberg.org/2009/agents/43048
+  - agent_name: Newman, John Philip
+    alias: Newman, J. P. (John Philip)
+    birthdate: 1826
+    deathdate: 1899
+    gutenberg_agent_id: '9304'
+    url: http://www.gutenberg.org/2009/agents/9304
+  - agent_name: Smith, George Albert
+    alias: Smith, George A. (George Albert)
+    birthdate: 1817
+    deathdate: 1875
+    gutenberg_agent_id: '43385'
+    url: http://www.gutenberg.org/2009/agents/43385
+description: ''
+gutenberg_issued: '2016-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51140'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Criticism, interpretation, etc.'
+- !lcsh 'Mormon Church -- Doctrines'
+- !lcc 'BX'
+- !lcsh 'Polygamy -- Religious aspects'
+- GITenberg
+title: 'The Bible and Polygamy: Does the Bible Sanction Polygamy?'
+url: http://www.gutenberg.org/ebooks/51140
