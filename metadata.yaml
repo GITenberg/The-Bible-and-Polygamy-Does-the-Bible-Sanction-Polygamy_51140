@@ -1,5 +1,8 @@
 _repo: The-Bible-and-Polygamy-Does-the-Bible-Sanction-Polygamy_51140
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51140-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Pratt, Orson
@@ -29,6 +32,8 @@ creator:
     gutenberg_agent_id: '43385'
     url: http://www.gutenberg.org/2009/agents/43385
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51140#The-Bible-and-Polygamy-Does-the-Bible-Sanction-Polygamy
 gutenberg_issued: '2016-02-06'
 gutenberg_type: Text
 identifiers:
